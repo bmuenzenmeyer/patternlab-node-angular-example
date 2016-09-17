@@ -1,0 +1,30 @@
+{
+  "name": "patternlab-node-angular-example",
+  "description": "An example of Pattern Lab Node running Angular Components",
+  "version": "0.0.1",
+  "dependencies": {
+    "browser-sync": "^2.11.2",
+    "gulp": "gulpjs/gulp#4.0",
+    "minimist": "^1.2.0",
+    "patternlab-node": "^2.0.0",
+    "styleguidekit-assets-default": "^3.0.0",
+    "styleguidekit-mustache-default": "^3.0.0"
+  },
+  "keywords": [
+    "Pattern Lab",
+    "Atomic Web Design",
+    "Node",
+    "Gulp",
+    "Javascript",
+    "Angular"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bmuenzenmeyer/patternlab-node-angular-example.git"
+  },
+  "author": "Brian Muenzenmeyer",
+  "license": "MIT",
+  "engines": {
+    "node": ">=5.0"
+  }
+}
