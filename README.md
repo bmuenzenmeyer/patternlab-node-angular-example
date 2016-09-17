@@ -1,6 +1,6 @@
 # Pattern Lab Node - Angular Example
 
-Answering the question, []"does Pattern Lab “not mix well” with Angular?"](http://stackoverflow.com/questions/39515130/does-pattern-lab-not-mix-well-with-angular)
+Answering the question, ["does Pattern Lab “not mix well” with Angular?"](http://stackoverflow.com/questions/39515130/does-pattern-lab-not-mix-well-with-angular)
 
 ![](https://github.com/bmuenzenmeyer/patternlab-node-angular-example/blob/master/patternlab-angular.gif)
 
