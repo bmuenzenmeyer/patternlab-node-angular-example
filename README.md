@@ -2,6 +2,8 @@
 
 Answering the question, ["does Pattern Lab “not mix well” with Angular?"](http://stackoverflow.com/questions/39515130/does-pattern-lab-not-mix-well-with-angular)
 
+:fire: :fire: :fire: [Live Demo](http://www.brianmuenzenmeyer.com/patternlab-node-angular-example/public/index.html) :fire: :fire: :fire:
+
 ![](https://github.com/bmuenzenmeyer/patternlab-node-angular-example/blob/master/patternlab-angular.gif)
 
 Yes this example is a bit contrived and reductive, but it is aimed to demonstrate that the two technologies are not wholesale blanket do-you-speak-to-your-mother-with-that-mouth incompatible.
